@@ -1,0 +1,6 @@
+{
+  "name": "GeoClassify Lab",
+  "description": "Engineering geotechnical application for USCS (ASTM D2487) and AASHTO (M 145) soil classification from raw lab data, featuring grain-size distribution curves, Casagrande plasticity chart, and step-by-step verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
